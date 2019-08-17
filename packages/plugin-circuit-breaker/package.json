@@ -1,6 +1,6 @@
 {
   "name": "@tinkoff/request-plugin-circuit-breaker",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Plugin implementing `Circuit breaker` design pattern",
   "main": "lib/circuit-breaker.js",
   "typings": "lib/circuit-breaker.d.ts",
@@ -30,7 +30,7 @@
     "tslib": "^1.9.3"
   },
   "devDependencies": {
-    "@tinkoff/request-core": "^0.7.1",
+    "@tinkoff/request-core": "^0.7.2",
     "@types/node": "^10.12.0"
   },
   "peerDependencies": {
